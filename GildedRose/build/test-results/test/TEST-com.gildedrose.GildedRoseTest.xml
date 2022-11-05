@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gildedrose.GildedRoseTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-11-05T14:47:04" hostname="PC-LENA" time="0.06">
+  <properties/>
+  <testcase name="testNameAgedBrie1()" classname="com.gildedrose.GildedRoseTest" time="0.029"/>
+  <testcase name="testNameAgedBrie2()" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="testNameRandom()" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="testConjured1()" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="testConjured2()" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="testNameRandom2()" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="testNameRandom3()" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="testNameSulfuras1()" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="testNameSulfuras2()" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="testNameBackstage1()" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="testNameBackstage2()" classname="com.gildedrose.GildedRoseTest" time="0.006"/>
+  <testcase name="testNameBackstage3()" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="testNameBackstage4()" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="testNameBackstage5()" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
